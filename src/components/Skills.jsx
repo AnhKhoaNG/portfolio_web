@@ -29,6 +29,10 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={C_plusplus} alt="C++ icon" />
                   <p className='my-4'>C++</p>
               </div>
+              <div className='shadow-md shadow-yellow-500 hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
+                  <p className='my-4'>JAVASCRIPT</p>
+              </div>
               <div className='shadow-md shadow-orange-500 hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
                   <p className='my-4'>HTML</p>
@@ -37,17 +41,9 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={CSS} alt="HTML icon" />
                   <p className='my-4'>CSS</p>
               </div>
-              <div className='shadow-md shadow-yellow-500 hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
-                  <p className='my-4'>JAVASCRIPT</p>
-              </div>
               <div className='shadow-md shadow-blue-500 hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={ReactImg} alt="HTML icon" />
                   <p className='my-4'>REACT</p>
-              </div>
-              <div className='shadow-md shadow-gray-400 hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
-                  <p className='my-4'>GITHUB</p>
               </div>
               <div className='shadow-md shadow-green-500 hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
