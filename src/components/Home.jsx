@@ -20,7 +20,7 @@ function Home(){
           />
             </div>
             <p className='md:text-2xl text-xl font-bold text-white'>interested on backend + cloud and AI/ML engineer.</p>
-            <a href = "Anh_Khoa_Nguyen_resume.pdf" >
+            <a href = "/Anh_Khoa_Nguyen_resume.pdf" >
             <button className='bg-[#004177] w-[300px] rounded-md font-medium my-6 mx-auto py-3 text-white'>My Resume</button>
             </a>
           </div>
